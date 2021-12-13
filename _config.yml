@@ -33,8 +33,9 @@ url: 'https://skwaaalker.github.io'
 github:
   username: skywaaalker             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +44,7 @@ social:
   email: guzhy@shanghaitech.edu.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://weibo.com/u/7524540656     # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -88,7 +89,7 @@ avatar: "/images/avatar.jpg"
 toc: true
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
+  comments: true  # boolean type, the global switch for posts comments.
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
