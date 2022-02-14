@@ -7,5 +7,3 @@ tags: [anniversary]     # TAG names should always be lowercase
 
 我们已经在一起253天啦！
 
-modify
-
